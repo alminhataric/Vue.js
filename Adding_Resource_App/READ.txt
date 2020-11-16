@@ -1,0 +1,3 @@
+Before you start you need to go to terminal and input - npm install
+
+and after input- npm start serve
